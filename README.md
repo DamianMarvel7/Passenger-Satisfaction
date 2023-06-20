@@ -2,6 +2,14 @@
 
 This project aims to predict passenger satisfaction based on an airline passenger satisfaction survey dataset. The dataset contains various features such as gender, customer type, age, type of travel, class, flight distance, and satisfaction ratings for different services provided during the flight.
 
+This project use 6 phase CRISP-DM which concist:
+- Business understanding – What does the business need?
+- Data understanding – What data do we have / need? Is it clean?
+- Data preparation – How do we organize the data for modeling?
+- Modeling – What modeling techniques should we apply?
+- Evaluation – Which model best meets the business objectives?
+- Deployment – How do stakeholders access the results?
+
 The main objectives of this project are as follows:
 - Exploratory Data Analysis (EDA): Conduct an in-depth analysis of the dataset to gain insights into the distributions, relationships, and patterns of the variables. Visualizations and statistical summaries will be used to understand the data better.
 - Feature Engineering: Preprocess the dataset by handling missing values, encoding categorical variables, and scaling numerical features. Feature engineering techniques may be applied to extract relevant information from the existing features or create new features that could potentially improve the predictive performance.
