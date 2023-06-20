@@ -9,3 +9,6 @@ The main objectives of this project are as follows:
 - Machine Learning Model Development: Build a predictive model using machine learning algorithms to accurately predict passenger satisfaction. Various models such as logistic regression, random forest, or gradient boosting will be explored. The dataset will be divided into training and testing sets for model training, evaluation, and validation.
 - Model Evaluation: Assess the performance of the trained models using appropriate evaluation metrics such as accuracy. Cross-validation techniques may be employed to obtain robust performance estimates.
 - Model Deployment: Once a satisfactory model is developed, it can be deployed as a service or integrated into an application for real-time prediction of passenger satisfaction. The model's deployment use Gradio.
+
+## Model Deployment Link
+https://huggingface.co/spaces/damianmarvel/Passenger-Satisfaction
